@@ -1,4 +1,5 @@
 Nivel 1 = La playa
-autor = Claudia-web04
-plataformas = 12
+autor = claudia-web04
+plataformas = 15
 enemigos = 0
+musica = "Sonido del mar"
